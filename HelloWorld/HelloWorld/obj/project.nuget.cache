@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NzXLF6hi4YHaAyeSePXwqKJQy2JkOSzYGBdqowFE4fzVasPLNhgBoP4H3OqH4gi3p0SXKjwKP2Vr2rsmCz1s1Q==",
+  "success": true,
+  "projectFilePath": "/Users/ryanlee/code/LearningFSharp/HelloWorld/HelloWorld/HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ryanlee/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

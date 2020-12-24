@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hVnjDrxEeCCYeq1e8DpBB4yUWMIF2QmIJKZSNopF/PNO7eOV11u/F3Nw2IyCDoDgiJ6qYv+kq75NjchXUVo2mg==",
+  "success": true,
+  "projectFilePath": "/Users/ryanlee/code/LearningFSharp/usingDatA/UsingData/UsingData.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ryanlee/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
