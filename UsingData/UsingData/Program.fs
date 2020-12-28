@@ -1,7 +1,6 @@
 ﻿open System
 open System.IO
 
-
 type Student =
     {
         Surname: string
@@ -62,9 +61,7 @@ let summarize filePath =
     |> Array.map Student.fromString
     |> Array.sortBy (fun student -> student.Surname)  
     |> Array.iter Student.printSummary
-
-    
-    
+ 
     
 [<EntryPoint>]
 let main argv =

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Currying", "Currying\Currying.fsproj", "{1753AE83-797D-434C-BB91-4BF8214FF431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1753AE83-797D-434C-BB91-4BF8214FF431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1753AE83-797D-434C-BB91-4BF8214FF431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1753AE83-797D-434C-BB91-4BF8214FF431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1753AE83-797D-434C-BB91-4BF8214FF431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

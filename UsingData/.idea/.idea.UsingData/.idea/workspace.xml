@@ -4,17 +4,28 @@
     <projectFile>UsingData/UsingData.fsproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a32594-2871-44ff-b99d-3216e50fb69e" name="Default Changelist" comment="INI: Initial data parser tutorial" />
+    <list default="true" id="90a32594-2871-44ff-b99d-3216e50fb69e" name="Default Changelist" comment="INI: Initial data parser tutorial">
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/.idea.HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.idea.HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.fsproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.fsproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UsingData/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UsingData/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UsingData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UsingData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsingData/bin/Debug/net5.0/UsingData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UsingData/bin/Debug/net5.0/UsingData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsingData/bin/Debug/net5.0/UsingData.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UsingData/bin/Debug/net5.0/UsingData.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.fsproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.fsproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UsingData/obj/Debug/net5.0/UsingData.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/UsingData/Program.fs" />
       <option value="$PROJECT_DIR$/UsingData/Program.fs" />
       <option value="$PROJECT_DIR$/UsingData/Program.fs" />
     </changedPaths>
@@ -34,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -58,6 +69,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="90a32594-2871-44ff-b99d-3216e50fb69e" name="Default Changelist" comment="" />
@@ -67,6 +81,7 @@
       <updated>1608614207185</updated>
       <workItem from="1608614212773" duration="4916000" />
       <workItem from="1608619185278" duration="4910000" />
+      <workItem from="1608769410908" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="INI: Initial data parser tutorial">
       <created>1608766224501</created>
@@ -90,7 +105,21 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="INI: Initial data parser tutorial" />
     <option name="LAST_COMMIT_MESSAGE" value="INI: Initial data parser tutorial" />

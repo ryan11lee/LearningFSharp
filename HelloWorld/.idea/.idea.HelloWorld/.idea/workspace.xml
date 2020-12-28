@@ -4,11 +4,16 @@
     <projectFile>HelloWorld/HelloWorld.fsproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44921f4c-6648-4e51-a8c8-2b7a07e74561" name="Default Changelist" comment="" />
+    <list default="true" id="44921f4c-6648-4e51-a8c8-2b7a07e74561" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HelloWorld/obj/Debug/net5.0/HelloWorld.fsproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net5.0/HelloWorld.fsproj.CoreCompileInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -16,6 +21,7 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1m51uDYaqD6ztZt5RhJDdaoFlG7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,13 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608768858964</updated>
       <workItem from="1608768863175" duration="28000" />
+      <workItem from="1608769383815" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
